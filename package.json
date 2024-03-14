@@ -1,7 +1,7 @@
 {
-  "name": "flowise-embed-react",
-  "version": "1.0.2",
-  "description": "React library to display flowise chatbot on your website",
+  "name": "chatasaurus-embed-react",
+  "version": "1.0.3",
+  "description": "React library to display chatasaurus chatbot on your website",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
@@ -35,6 +35,7 @@
   },
   "peerDependencies": {
     "flowise-embed": "*",
+    "chatasaurus-embed": "github:SirLucian/CustomFlowiseChatEmbed#main",
     "react": "18.x"
   }
 }
